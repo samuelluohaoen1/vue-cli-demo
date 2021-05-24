@@ -8,7 +8,8 @@
     |
     <!-- "/login" is mapped to the component `Login` which is stored under "./components/Login.vue"-->
     <router-link to="/login">Login</router-link>
-    <!-- Components return by the route requests are displayed in `<router-view>`-->
+
+    <!-- Components returned by the route requests are displayed in `<router-view>`-->
     <router-view></router-view>
 
   </div>

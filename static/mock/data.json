@@ -1,0 +1,27 @@
+{
+  "name": "UCSD",
+  "url": "https://www.ucsd.edu",
+  "page": 1,
+  "isNonProfit":true,
+
+  "address": {
+    "street": "Gilman Drive",
+    "city": "San Diego",
+    "country": "USA"
+  },
+
+  "links": [
+    {
+      "name": "Huawei",
+      "url": "https://www.huawei.com/"
+    },
+    {
+      "name": "Google",
+      "url": "https://www.google.com/"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/"
+    }
+  ]
+}
